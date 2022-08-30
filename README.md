@@ -13,4 +13,9 @@ Users should be able to:
 
 ## My process
 
+I implemented the design from a desktop perspective and then proceeded to work on the mobile design
+I used a lot of variables to keep there from being too many confusing numbers in the CSS
+
 ### What I learned
+
+That the process is a lot more controlled when using variables
